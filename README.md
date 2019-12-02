@@ -20,4 +20,4 @@ run:
 
 example:
 
-![before process](p1.jpg)![after process](p1.jpg_processed.jpg)
+![before process](p.jpg)![after process](p.jpg_processed.jpg)
